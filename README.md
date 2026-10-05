@@ -40,13 +40,6 @@ Currently exploring the intersection of **networks, security, and software devel
 * **SIGMA** — Disaster emergency reporting and mitigation platform with Android and web components.
 * **Hydroponic Expert System** — Rule-based expert system for recommending and monitoring hydroponic plant nutrition based on growth phases.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FandhiAhmadHusen&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FandhiAhmadHusen&layout=compact&hide_border=true" height="165"/>
-</p>
-
 ### 🌱 What I'm Up To
 
 * Building and improving personal projects
