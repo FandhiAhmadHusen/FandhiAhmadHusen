@@ -58,6 +58,6 @@ Currently exploring the intersection of **networks, security, and software devel
 ### 📫 Connect With Me
 
 * [GitHub](https://github.com/FandhiAhmadHusen)
-* [LinkedIn](https://linkedin.com/in/fandhi-ahmad-husen-alghozali)
+* [LinkedIn](https://www.linkedin.com/in/fandhi-ahmad-husen-alghozali-19328b329?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 > **Building, learning, and exploring at the intersection of networks, security, and technology.**
